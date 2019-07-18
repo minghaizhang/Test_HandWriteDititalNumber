@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/server/zmh/text_shouxieshuzi/model2/aa.ckpt"
+all_model_checkpoint_paths: "/home/server/zmh/text_shouxieshuzi/model2/aa.ckpt"
